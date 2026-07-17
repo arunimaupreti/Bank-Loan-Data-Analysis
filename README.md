@@ -1,4 +1,4 @@
-# 🏦 Advanced Bank Loan Data Analysis — Power BI Dashboard
+# 🏦 Bank Loan Data Analysis
 
 Empowering data-driven lending decisions through dynamic, interactive Power BI dashboards.
 
